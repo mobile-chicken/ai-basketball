@@ -1,0 +1,12 @@
+{
+  "source": "DJI_20260929201412_0019_D.MP4",
+  "provenance": "User feedback on earlier output numbering; used only for evaluation, never inference",
+  "negative_events": [
+    {"old_clip": "002", "time": 41.44155259004161, "reason": "rim out"},
+    {"old_clip": "006", "time": 81.79475856823515, "reason": "rim miss"},
+    {"old_clip": "008", "time": 131.9504144652354, "reason": "backboard miss"},
+    {"old_clip": "009", "time": 187.5082806622808, "reason": "airball"}
+  ],
+  "positive_events": [],
+  "note": "No complete positive ground truth; recall and overall precision cannot be calculated."
+}

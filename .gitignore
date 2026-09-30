@@ -1,0 +1,23 @@
+.venv/
+.cache/
+output/
+__pycache__/
+
+input/*
+!input/.gitkeep
+output/*
+!output/.gitkeep
+.cache/
+__pycache__/
+
+# Large local training videos and generated samples stay on the workstation.
+sample/**/*.mp4
+samples/**/*.mp4
+input/**/*.mp4
+external/
+Ultralytics/
+run.log
+calibration*.jpg
+calibration*.png
+rim_*.png
+review_*.mp4
